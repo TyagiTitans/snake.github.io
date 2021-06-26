@@ -2,7 +2,7 @@ Hello Earthlings !! 😁
 
 This is a snake game 🐍 called Snake It Up. It is created using HTML , CSS and JAVASCRIPT. It also have easy, medium and hard levels.
 I have also added highscore feature that uses local storage to store highscore for respective levels. To make the game more intresting I have added an exciting
-feature of increasing speed every time the snake eats apple.
+feature of increasing speed every time the snake eats apple. It can be played by just using up, down, left and right arrow keys.
 
 If you want to play it then visit this link 👉 https://tyagititans.github.io/snake.github.io/
 
